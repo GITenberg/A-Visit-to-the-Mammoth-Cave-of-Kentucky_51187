@@ -1,0 +1,26 @@
+_repo: A-Visit-to-the-Mammoth-Cave-of-Kentucky_51187
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilson, John
+    birthdate: 1800
+    deathdate: 1849
+    gutenberg_agent_id: '46287'
+    url: http://www.gutenberg.org/2009/agents/46287
+description: ''
+gutenberg_issued: '2016-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51187'
+  lccn: '91210988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mammoth Cave (Ky.)'
+- !lcsh 'Wilson, John, 1800-1849'
+- !lcc 'F396'
+- GITenberg
+title: A Visit to the Mammoth Cave of Kentucky
+url: http://www.gutenberg.org/ebooks/51187
